@@ -1,0 +1,43 @@
+Titulo: Plantilla A - Estructura basica en Java
+Autor: Jhonatan Chango
+
+Enunciado:
+    Mostrar la estructura minima de un programa en Java
+
+
+public class App{ //Aqui declaramos una calse publica llamada App
+    puclic static void main(string[] args){ //La funcion principal donde se va a comenzar el programa 
+        System.out.println("Hola, Java");//Esta linea imprime un mensaje en consola
+
+    }//Aqui termina el main
+}//Aqui termina la clase App
+
+
+
+
+
+
+Titulo: Plantilla B - Clase simple en Java
+Autor: Jhonatan Chango
+
+Enunciado: 
+    Crear una clase llamada persona con atributos simples
+    para entender como se representa una entidad en Java.
+
+
+Archivo: Persona.java
+
+puclic class Persona{
+
+    String nombre; //Atributo que guardara el nombre de la Persona 
+    int edad; //Atributo que guarda la edad de la Persona 
+}//Aqui termina la clase Persona 
+
+
+Archivo: App.java
+
+puclic class App{ //Clase principal del programa 
+    public static void(String[] args){ //Metodo principal
+        Persona 
+    }
+}
