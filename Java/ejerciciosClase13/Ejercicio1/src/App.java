@@ -10,3 +10,9 @@ public class App {
         System.out.println("Edad: "+ persona1.edad); //Mostrar la edad en consola
     }//Fin del metodo main
 }//Fin de la clase App
+
+
+
+graficos = buenos;
+online = si;
+hackers= no;
